@@ -1,3 +1,3 @@
-<img src="samp-brand.png" width=547 height=150 alt="San Andreas Multiplayer Build Tool"/>
+<img src="samp-brand.png" width=250 height=250 alt="San Andreas Multiplayer Build Tool"/>
 
 # San Andreas Multiplayer Build Tool
